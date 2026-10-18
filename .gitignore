@@ -1,0 +1,4 @@
+.uvm-core/
+sim/
+formal/build/
+__pycache__/

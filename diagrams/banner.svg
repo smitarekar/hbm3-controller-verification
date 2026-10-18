@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="hbm3-controller-verification">
+<rect width="1200" height="200" fill="#0f172a"/>
+<text x="52" y="83" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="36" font-weight="700" fill="#f8fafc" letter-spacing="-1">hbm3-controller-verification</text>
+<text x="52" y="111" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#cbd5e1">SystemVerilog UVM, SVA and covergroups for hbm3-controller</text>
+<text x="52" y="140" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#64748b">36/36 runs - 160/160 bins</text>
+<rect x="724.0" y="70.0" width="44.0" height="28.0" rx="2" fill="#bfdbfe" fill-opacity="1.00" stroke="#64748b" stroke-width="1"/>
+<text x="746.0" y="88.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8" fill="#1a1a1a" text-anchor="middle" font-weight="normal">seq</text>
+<rect x="786.0" y="70.0" width="44.0" height="28.0" rx="2" fill="#bfdbfe" fill-opacity="1.00" stroke="#64748b" stroke-width="1"/>
+<text x="808.0" y="88.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8" fill="#1a1a1a" text-anchor="middle" font-weight="normal">drv</text>
+<rect x="848.0" y="70.0" width="52.0" height="28.0" rx="2" fill="#99f6e4" fill-opacity="1.00" stroke="#64748b" stroke-width="1"/>
+<text x="874.0" y="88.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8" fill="#1a1a1a" text-anchor="middle" font-weight="normal">DUT</text>
+<rect x="918.0" y="70.0" width="44.0" height="28.0" rx="2" fill="#fde68a" fill-opacity="1.00" stroke="#64748b" stroke-width="1"/>
+<text x="940.0" y="88.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8" fill="#1a1a1a" text-anchor="middle" font-weight="normal">mon</text>
+<line x1="768.0" y1="84.0" x2="786.0" y2="84.0" stroke="#64748b" stroke-width="1.2"/>
+<line x1="830.0" y1="84.0" x2="848.0" y2="84.0" stroke="#64748b" stroke-width="1.2"/>
+<line x1="900.0" y1="84.0" x2="918.0" y2="84.0" stroke="#64748b" stroke-width="1.2"/>
+<rect x="980.0" y="70.0" width="70.0" height="28.0" rx="2" fill="#fecaca" fill-opacity="1.00" stroke="#64748b" stroke-width="1"/>
+<text x="1015.0" y="88.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8" fill="#1a1a1a" text-anchor="middle" font-weight="normal">scoreboard</text>
+<line x1="962.0" y1="84.0" x2="980.0" y2="84.0" stroke="#64748b" stroke-width="1.2"/>
+<rect x="844.0" y="122.0" width="60.0" height="24.0" rx="2" fill="#fecaca" fill-opacity="1.00" stroke="#64748b" stroke-width="1"/>
+<text x="874.0" y="138.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8" fill="#1a1a1a" text-anchor="middle" font-weight="normal">SVA</text>
+<line x1="874.0" y1="98.0" x2="874.0" y2="122.0" stroke="#d97706" stroke-width="1.6"/>
+<rect x="980.0" y="122.0" width="70.0" height="24.0" rx="2" fill="#e2e8f0" fill-opacity="0.90" stroke="#64748b" stroke-width="1"/>
+<text x="1015.0" y="138.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8" fill="#1a1a1a" text-anchor="middle" font-weight="normal">covergroups</text>
+<line x1="940.0" y1="98.0" x2="940.0" y2="134.0" stroke="#64748b" stroke-width="1.2"/>
+<line x1="940.0" y1="134.0" x2="980.0" y2="134.0" stroke="#64748b" stroke-width="1.2"/>
+</svg>
